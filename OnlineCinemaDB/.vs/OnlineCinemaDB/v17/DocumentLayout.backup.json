@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0442\u0440\u0437\u0431\u0434_\u043F\u0438\u043B\u0438\u043F\u0430\u0441\\onlinecinemadb\\onlinecinemadb\\editfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|solutionrelative:onlinecinemadb\\editfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0442\u0440\u0437\u0431\u0434_\u043F\u0438\u043B\u0438\u043F\u0430\u0441\\onlinecinemadb\\onlinecinemadb\\editfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|solutionrelative:onlinecinemadb\\editfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0442\u0440\u0437\u0431\u0434_\u043F\u0438\u043B\u0438\u043F\u0430\u0441\\onlinecinemadb\\onlinecinemadb\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|solutionrelative:onlinecinemadb\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0442\u0440\u0437\u0431\u0434_\u043F\u0438\u043B\u0438\u043F\u0430\u0441\\onlinecinemadb\\onlinecinemadb\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|solutionrelative:onlinecinemadb\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0442\u0440\u0437\u0431\u0434_\u043F\u0438\u043B\u0438\u043F\u0430\u0441\\onlinecinemadb\\onlinecinemadb\\resources\\clear.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|solutionrelative:onlinecinemadb\\resources\\clear.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0442\u0440\u0437\u0431\u0434_\u043F\u0438\u043B\u0438\u043F\u0430\u0441\\onlinecinemadb\\onlinecinemadb\\utility\\cryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|solutionrelative:onlinecinemadb\\utility\\cryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0442\u0440\u0437\u0431\u0434_\u043F\u0438\u043B\u0438\u043F\u0430\u0441\\onlinecinemadb\\onlinecinemadb\\editgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|solutionrelative:onlinecinemadb\\editgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0442\u0440\u0437\u0431\u0434_\u043F\u0438\u043B\u0438\u043F\u0430\u0441\\onlinecinemadb\\onlinecinemadb\\newdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|solutionrelative:onlinecinemadb\\newdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0442\u0440\u0437\u0431\u0434_\u043F\u0438\u043B\u0438\u043F\u0430\u0441\\onlinecinemadb\\onlinecinemadb\\editcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|solutionrelative:onlinecinemadb\\editcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0442\u0440\u0437\u0431\u0434_\u043F\u0438\u043B\u0438\u043F\u0430\u0441\\onlinecinemadb\\onlinecinemadb\\editcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|solutionrelative:onlinecinemadb\\editcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0442\u0440\u0437\u0431\u0434_\u043F\u0438\u043B\u0438\u043F\u0430\u0441\\onlinecinemadb\\onlinecinemadb\\editactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|solutionrelative:onlinecinemadb\\editactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\onlinecinemadb\\utility\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|solutionrelative:onlinecinemadb\\utility\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0442\u0440\u0437\u0431\u0434_\u043F\u0438\u043B\u0438\u043F\u0430\u0441\\onlinecinemadb\\onlinecinemadb\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|solutionrelative:onlinecinemadb\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\onlinecinemadb\\newfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DB12E0D-D75D-4E0A-A6E1-6DBD6291EF42}|OnlineCinemaDB\\OnlineCinemaDB.csproj|solutionrelative:onlinecinemadb\\newfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditFilm.cs",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\EditFilm.cs",
+              "RelativeDocumentMoniker": "OnlineCinemaDB\\EditFilm.cs",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\EditFilm.cs",
+              "RelativeToolTip": "OnlineCinemaDB\\EditFilm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:13:19.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditFilm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\EditFilm.cs",
+              "RelativeDocumentMoniker": "OnlineCinemaDB\\EditFilm.cs",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\EditFilm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "OnlineCinemaDB\\EditFilm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:13:09.924Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDao.cs",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\dao\\UserDao.cs",
+              "RelativeDocumentMoniker": "OnlineCinemaDB\\dao\\UserDao.cs",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\dao\\UserDao.cs",
+              "RelativeToolTip": "OnlineCinemaDB\\dao\\UserDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:12:58.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\entity\\User.cs",
+              "RelativeDocumentMoniker": "OnlineCinemaDB\\entity\\User.cs",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\entity\\User.cs",
+              "RelativeToolTip": "OnlineCinemaDB\\entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:12:48.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clear.png",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\Resources\\clear.png",
+              "RelativeDocumentMoniker": "OnlineCinemaDB\\Resources\\clear.png",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\Resources\\clear.png",
+              "RelativeToolTip": "OnlineCinemaDB\\Resources\\clear.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-09T09:12:39.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CryptoService.cs",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\utility\\CryptoService.cs",
+              "RelativeDocumentMoniker": "OnlineCinemaDB\\utility\\CryptoService.cs",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\utility\\CryptoService.cs",
+              "RelativeToolTip": "OnlineCinemaDB\\utility\\CryptoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:12:35.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditGenre.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\EditGenre.cs",
+              "RelativeDocumentMoniker": "OnlineCinemaDB\\EditGenre.cs",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\EditGenre.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "OnlineCinemaDB\\EditGenre.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:12:30.182Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewDirector.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\NewDirector.cs",
+              "RelativeDocumentMoniker": "OnlineCinemaDB\\NewDirector.cs",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\NewDirector.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "OnlineCinemaDB\\NewDirector.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:12:29.149Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditCustomer.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\EditCustomer.cs",
+              "RelativeDocumentMoniker": "OnlineCinemaDB\\EditCustomer.cs",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\EditCustomer.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "OnlineCinemaDB\\EditCustomer.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:12:27.728Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditCountry.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\EditCountry.cs",
+              "RelativeDocumentMoniker": "OnlineCinemaDB\\EditCountry.cs",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\EditCountry.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "OnlineCinemaDB\\EditCountry.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:12:26.488Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditActor.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\EditActor.cs",
+              "RelativeDocumentMoniker": "OnlineCinemaDB\\EditActor.cs",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\EditActor.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "OnlineCinemaDB\\EditActor.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:12:21.133Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Main.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\Main.cs",
+              "RelativeDocumentMoniker": "OnlineCinemaDB\\Main.cs",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\Main.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "OnlineCinemaDB\\Main.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:27:34.691Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NewFilm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\NewFilm.cs",
+              "RelativeDocumentMoniker": "OnlineCinemaDB\\NewFilm.cs",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\NewFilm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "OnlineCinemaDB\\NewFilm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:27:29.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Database.cs",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\utility\\Database.cs",
+              "RelativeDocumentMoniker": "OnlineCinemaDB\\utility\\Database.cs",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F_\u0422\u0420\u0417\u0411\u0414_\u041F\u0438\u043B\u0438\u043F\u0430\u0441\\OnlineCinemaDB\\OnlineCinemaDB\\utility\\Database.cs",
+              "RelativeToolTip": "OnlineCinemaDB\\utility\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:13:51.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
